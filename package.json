@@ -1,0 +1,14 @@
+{
+  "name": "electron-tutorial",
+  "version": "1.0.0",
+  "description": "Step-by-step execution of the tutorial from the Electron docs.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EterTy",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^37.4.0"
+  }
+}
